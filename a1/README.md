@@ -33,6 +33,10 @@ This basically refers to the "long form" multiplication as we learn in school.  
     --------
 ```
 
+### Block diagram representation
+
+![seqmult](https://user-images.githubusercontent.com/69968227/132320319-56325ec8-ec11-422c-9423-4d69b585a4e1.png)
+
 ### Number representation
 
 The numbers themselves are represented in 2's complement notation.  Therefore, if the multiplicand is negative, the PP values should be "sign-extended" to get the correct result.  An example for negative multiplicand is shown below - negative multiplier requires similar careful handling, and is left as an exercise.
