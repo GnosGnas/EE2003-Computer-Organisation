@@ -3,6 +3,7 @@
 // Description     : Sequential multiplier
 // Author          : Surya Prasad S (EE19B121)
 
+// The logic followed is an attempt at optimising the number of registers and reducing the clock cycles
 // The following code has been tested for all extreme values and is also synthesizable with 103 LUTs and 66 FFs being consumed of the FPGA (when directly synthesised with Vivado).
 // Result of synthesis has been given in the folder in which this file is located and along with it the elaborated design has also been shown
 
