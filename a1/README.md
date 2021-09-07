@@ -61,22 +61,3 @@ The above multiplication process can be directly implemented as combinational lo
 The other alternative is to have a reduced hardware with a single register to hold the final product.  This **accumulates** the final product by iterating over several clock cycles (how many?).  A diagram indicating the architecture is shown here.
 
 ![Sequential Multiplier](./fig/seqmult.png)
-
-
-## HowTo
-
-Fork this repository (`EE2003-2021/a1`) into your namespace so that you can edit and push changes.
-
-You are given a test bench (`seq_mult.v`) with suitable test cases (`test_in.dat`).  The assignment repository also contains a `run.sh` script that will compile the code and run the tests that will be performed on the drone server.  You can use this to confirm correct operation of your code.
-
-**IMPORTANT**: the filename for the code that you write must be `seq_mult.v` - otherwise the auto-grader will not recognize it.
-
-Once you have confirmed that your code passes all the tests, commit all the changes, tag it for submission, and push to your repository.
-
-### Submitting
-
-Follow the instructions from assignment 0 to tag and push and check the results on drone.  Submit the drone link on Moodle.
-
-## Date
-
-Due Midnight, Aug 22, 2021
