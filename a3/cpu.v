@@ -319,6 +319,7 @@ module cpu (
             $display("Count = %d, Instruction = %h,funct3 = %d, dwdata = %d, wdwe = %d, Reset = %d", j, idata,func3,dwdata, dwe, reset); j=j+1;
 			//Error identification
 			case(error_flag)
+			3'd0: ;
 			3'd1: $display("Warning: Incorrect func3 for JALR instruction %h",       idata);
 			3'd2: $display("Warning: Incorrect func3 for BRANCH instruction %h",     idata);
 			3'd3: $display("Warning: Incorrect func3 for LOAD instruction %h",       idata);
