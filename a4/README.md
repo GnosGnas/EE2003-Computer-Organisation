@@ -45,6 +45,7 @@ The `run.sh` script performs all the steps required to compile and test your cod
 
 Once you have confirmed that your code passes all the tests, commit all the changes, tag it for submission, and push to your repository.
 
+**NOTE**: tb.v is my own testbench which can be modified and used for individual instructions.
 ## Date
 
 Due Midnight, Sep 30, 2021
