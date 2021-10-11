@@ -1,0 +1,6 @@
+cpu_synth.v
+cpu_tb.v
+dmem.v
+imem.v
+/usr/share/yosys/xilinx/cells_sim.v
+
