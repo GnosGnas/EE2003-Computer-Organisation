@@ -11,3 +11,9 @@ Primer to git, Drone CI and bash scripts.
 **Assignment-2:**
 Function to compute nth number in the Fibonacci using RISC-V Assembly.
 
+**Assignment-3:**
+Single-cycle implementation of RISCV-32I CPU for Arithmetic and Load/Store instructions
+
+**Assignment-4:**
+Single-cycle implementation of RISCV-32I CPU for Branch and LUI/AUIPC instructions
+
