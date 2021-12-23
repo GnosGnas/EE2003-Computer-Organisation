@@ -20,6 +20,6 @@ Single-cycle implementation of RISCV-32I CPU for Branch and LUI/AUIPC instructio
 **Assignment-5:**
 Interfacing sequential multiplier with PICOrv32
 
-**AES-accelerator:**
+## AES-accelerator
 Final Project for the course - AES Accelerator Integrated with PicoRV32I
 
