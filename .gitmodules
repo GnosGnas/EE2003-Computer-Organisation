@@ -1,0 +1,3 @@
+[submodule "AES-accelerator"]
+	path = AES-accelerator
+	url = https://github.com/GnosGnas/AES-accelerator-with-PICOrv32
